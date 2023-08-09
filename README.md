@@ -2,4 +2,4 @@
 ## About
 ## Installations
 ## Usage
-### Walk through video
+## Walk-through Video
